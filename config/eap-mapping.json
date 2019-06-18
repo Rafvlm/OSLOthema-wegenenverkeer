@@ -159,7 +159,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/lijnvormigeElementen",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -176,7 +176,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/riolering",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -193,7 +193,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/signalisatie",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -210,7 +210,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/vegetatie",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -227,7 +227,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/verhardingenFunderingen",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": [
@@ -251,7 +251,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/waterlopen",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -268,7 +268,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/proefenmetingen",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -302,7 +302,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/rioleringsgroepering",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
@@ -336,7 +336,7 @@
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
-    "site": "site-skeleton",
+    "site": "site-skeleton/relaties",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenenverkeer/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "dependencies": []
